@@ -1,4 +1,11 @@
-# hotels_up_to_date
+
+# Demo
+
+http://3.16.214.155/
+
+## HotelCards
+![Dash](https://github.com/Reengen-FullStack-Development-Bootcamp/week-2-homework-yavuz-bektas/blob/main/src/assets/short.gif?raw=true)
+
 
 ## Project setup
 ```
